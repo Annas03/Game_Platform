@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Legendary Sword of Fire",
+    "icon": "⚔️",
+    "owner": "0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb1"
+  },
+  {
+    "id": 2,
+    "name": "Dragon Scale Armor",
+    "icon": "🛡️",
+    "owner": "0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb1"
+  },
+  {
+    "id": 3,
+    "name": "Mystic Staff of Wisdom",
+    "icon": "🪄",
+    "owner": "0x8ba1f109551bD432803012645Ac136ddd64DBA72"
+  },
+  {
+    "id": 4,
+    "name": "Shadow Dagger",
+    "icon": "🗡️",
+    "owner": "0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb1"
+  },
+  {
+    "id": 5,
+    "name": "Crystal Shield",
+    "icon": "💎",
+    "owner": "0x8ba1f109551bD432803012645Ac136ddd64DBA72"
+  },
+  {
+    "id": 6,
+    "name": "Phoenix Wings",
+    "icon": "🦅",
+    "owner": "0x9C8fF314C9Bc7F6e59A9d9225Fb22946427eDC03"
+  },
+  {
+    "id": 7,
+    "name": "Ice Bow",
+    "icon": "🏹",
+    "owner": "0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb1"
+  },
+  {
+    "id": 8,
+    "name": "Thunder Hammer",
+    "icon": "🔨",
+    "owner": "0x8ba1f109551bD432803012645Ac136ddd64DBA72"
+  },
+  {
+    "id": 9,
+    "name": "Elven Cloak",
+    "icon": "🧥",
+    "owner": "0x9C8fF314C9Bc7F6e59A9d9225Fb22946427eDC03"
+  },
+  {
+    "id": 10,
+    "name": "Arcane Ring",
+    "icon": "💍",
+    "owner": "0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb1"
+  },
+  {
+    "id": 11,
+    "name": "Poison Vial",
+    "icon": "🧪",
+    "owner": "0x8ba1f109551bD432803012645Ac136ddd64DBA72"
+  },
+  {
+    "id": 12,
+    "name": "Holy Amulet",
+    "icon": "📿",
+    "owner": "0x9C8fF314C9Bc7F6e59A9d9225Fb22946427eDC03"
+  }
+]

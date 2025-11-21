@@ -7,6 +7,7 @@ import { collabListModalAtom } from '@/store/collab/state';
 import { openLink } from '@/utils';
 import ReactGA from 'react-ga4';
 import { useSetRecoilState } from 'recoil';
+import Link from 'next/link';
 
 export default function Home() {
   const src = useThemeAsset('arcana_banner_2.webp');
@@ -48,6 +49,20 @@ export default function Home() {
       {/* <div className="mt-5 w-full">
         <PowerLevelBanner />
       </div> */}
+
+      {/* Game Asset Dashboard Link */}
+      <div className="mt-6 flex justify-center">
+        <Link href="/asset-dashboard">
+          <button className="group relative px-8 py-4 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white font-bold text-lg rounded-xl shadow-lg transition-all duration-300 transform hover:scale-105 hover:shadow-purple-500/50">
+            <span className="flex items-center gap-3">
+              <span className="text-2xl">🎮</span>
+              <span>Game Asset Dashboard</span>
+              <span className="text-2xl group-hover:translate-x-1 transition-transform">→</span>
+            </span>
+          </button>
+        </Link>
+      </div>
+
       <div className="mt-4">
         <GamerRanking />
       </div>
