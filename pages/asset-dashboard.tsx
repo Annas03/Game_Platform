@@ -122,7 +122,7 @@ const AssetDashboard: NextPage = () => {
         </div>
 
         {filteredAssets.length > 0 ? (
-          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-4">
             {filteredAssets.map((asset) => {
               const isOwned = isOwnedByUser(asset);
               return (
